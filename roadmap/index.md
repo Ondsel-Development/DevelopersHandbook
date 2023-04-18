@@ -177,7 +177,7 @@ FreeCAD has an enormous number of functions and for a new user, there is no obvi
 
 FreeCAD has a major terminology problem for new users.  We have a Part workbench that doesn't make parts and a Part Design workbench that isn't used to design parts.  We have Pads and Extrudes, Pockets and Cuts, Fuses and Unions, etc.  We have a Part container and a Group container(?) but no core functions to populate a container (e.g. a core assembly function).
 
-Forum comment regarding nomenclature: [https://forum.freecad.org/viewtopic.php?p=669869#p669869](https://forum.freecad.org/viewtopic.php?p=669869#p669869)
+[This discussion](https://forum.freecad.org/viewtopic.php?p=669869#p669869) on the FreeCAD forum about nomenclature serves as a starting point to improve the state of affairs with terminology.
 
 ## Objective: Prevent Shooting Yourself in the Foot
 
